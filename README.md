@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Jadurani. 
 
+I'm a tech consultant based in Manila, Philippines.
 
-**jadurani/jadurani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...a- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadurani)](https://github.com/jadurani/github-readme-stats)
+- 🔭 I’m currently working on https://app.earnie.us/
+- 🌱 I’m currently learning piano, devops
+- 👯 I’m looking to collaborate on projects that help people live better lives like https://noah.up.edu.ph/
+- 💬 Ask me about: frontend development, UI/UX, team management/empowerment
+- 📫 How to reach me: shoot me an email at hello@jadurani.me
+- 😄 Pronouns: she/her
+- ⚡ Hobbies: singing, dancing, weight-lifting, hiking, free-diving, cycling
